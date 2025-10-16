@@ -53,8 +53,11 @@
 </p>
 
 <p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=rishi-mishima&theme=tokyonight&date_format=%5BY.%5Dn.j&card_width=530&cache_seconds=14400" alt="streak" />
+  <img height="190" 
+       src="https://streak-stats.demolab.com?user=Rishi-Mishima&theme=tokyonight&hide_border=true&card_width=530&date_format=%5BY.%5Dn.j&_=2" 
+       alt="GitHub Streak" />
 </p>
+
 
 ---
 
