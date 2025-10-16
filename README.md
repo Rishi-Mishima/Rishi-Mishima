@@ -52,26 +52,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-mishima&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=14400" alt="top-langs" />
 </p>
 
-<p align="center">
-  <img height="190" 
-       src="https://streak-stats.demolab.com/?user=rishi-mishima" 
-       alt="GitHub Streak" />
-</p>
 
-
----
-
-<!-- ---------- OPTIONAL: TROPHIES ---------- -->
-<!-- Uncomment if you like this section
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishi-mishima&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true&margin-w=8" alt="trophies" />
-</p>
--->
-
-
-
----
 
 <p align="center">
   <em>“Keep learning, keep building, and never give up.”</em> 💪
