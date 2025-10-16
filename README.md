@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Java developer from China</h3>
 
 <p align="center">
-  <em>Backend & Full-stack • Java • Spring Boot • Vue • MySQL</em>
+  <em>Backend & Full-stack • Java • Spring Boot • JavaScript • MySQL • VUE.JS</em>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 - 😊 I'm Miyuki, a software engineer passionate about backend & full-stack development.  
 - 🎓 Currently focusing on **Java backend**, **databases**, and **front-end frameworks**.  
 - 🚀 Goal: build robust, scalable apps with **clean architecture**.  
-- 💬 Ask me about **Java / Spring Boot / Vue / MySQL**.  
+- 💬 Ask me about **Java / Spring Boot / Vue / MySQL / JavaScript**.  
 - 📫 Reach me at **janicerx10@gmail.com**.
 
 ---
