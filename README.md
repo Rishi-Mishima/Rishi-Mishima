@@ -22,10 +22,10 @@
 <!-- ---------- ABOUT ---------- -->
 ### About me
 
-- 😊 I'm Miyuki, a software engineer passionate about backend & full-stack development.  
+- 😊 I'm Risha, a software engineer passionate about backend & full-stack development.  
 - 🎓 Currently focusing on **Java backend**, **databases**, and **front-end frameworks**.  
 - 🚀 Goal: build robust, scalable apps with **clean architecture**.  
-- 💬 Ask me about **Java / Spring Boot / Vue / MySQL / JavaScript**.  
+- 💬 Ask me about **Java / Spring Boot / Vue / React / MySQL / JavaScript**.  
 - 📫 Reach me at **janicerx10@gmail.com**.
 
 ---
@@ -34,16 +34,40 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-42b883?logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<div align="center">
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-3-42b883?style=flat&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4.0-646cff?style=flat&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-v5-3178C6?style=flat&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-cc6699?style=flat&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**DevOps / Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+
+
+
+</div>
 </p>
 
 ---
