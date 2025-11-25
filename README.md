@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Java developer from China</h3>
 
 <p align="center">
-  <em>Backend & Full-stack • Java • Spring Boot • JavaScript • MySQL • VUE.JS</em>
+  <em>Backend & Full-stack • Java • Spring Boot • JavaScript • MySQL • VUE.JS • React • TypeScript</em>
 </p>
 
 <p align="center">
