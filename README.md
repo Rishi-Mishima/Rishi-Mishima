@@ -89,4 +89,4 @@
 
 
 ### 🎸 LeetCode study 
-<img src="https://leetcard.jacoblin.cool/dao-dao-92?site=cn/">
+<img src="https://leetcard.jacoblin.cool/dao-dao-92?site=cn">
