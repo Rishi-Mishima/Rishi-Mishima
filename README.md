@@ -9,14 +9,14 @@
   <em>Backend & Full-stack • Java • Spring Boot • JavaScript • MySQL • VUE.JS • React • TypeScript</em>
 </p>
 
+
 <p align="center">
   <a href="mailto:janicerx10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-janicerx10%40gmail.com-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rishi-mishima&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
----
+  <img src="https://komarev.com/ghpvc/?username=rishi-mishima&style=for-the-badge&color=blueviolet" />
+</p>
 
 <!-- ---------- ABOUT ---------- -->
 ### About me
