@@ -1,7 +1,6 @@
 <!-- ---------- HEADER ---------- -->
 <h1 align="center">
-  Hi, I'm Risha
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=50&center=true&vCenter=true&width=520&lines=👋+Hi+I'm+Risha;" />
 </h1>
 
 <h3 align="center">A passionate Java developer from China</h3>
@@ -73,15 +72,21 @@
 ---
 
 <!-- ---------- STATS ROW ---------- -->
-### 📊 GitHub Stats
+### 🐍 Contribution Graph
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rishi-mishima&show_icons=true&theme=tokyonight&count_private=true&hide=issues&rank_icon=github&cache_seconds=14400" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-mishima&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=14400" alt="top-langs" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
-
 
 
 <p align="center">
   <em>“Keep learning, keep building, and never give up.”</em> 💪
 </p>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-mishima&theme=tokyo-night">
+
+
+
+### 🎸 LeetCode study 
+<img src="https://leetcard.jacoblin.cool/dao-dao-92?site=cn/">
