@@ -21,15 +21,18 @@
 <!-- ---------- ABOUT ---------- -->
 ### About me
 
-- 😊 I'm Risha, a software engineer passionate about backend & full-stack development.  
-- 🎓 Currently focusing on **Java backend**, **databases**, and **front-end frameworks**.  
-- 🚀 Goal: build robust, scalable apps with **clean architecture**.  
-- 💬 Ask me about **Java / Spring Boot / Vue / React / MySQL / JavaScript**.  
+- 👩🏻‍💻 I'm Risha, a software engineer focused on **Java backend development and AI-powered systems**.
+- 🤖 Currently building **AI agents, RAG pipelines, and multi-agent workflows** with Java.
+- 🗄️ Exploring **database internals** by implementing transaction management, MVCC, recovery, caching, and indexing from scratch.
+- ⚙️ I enjoy turning system concepts into working projects with **Java, Spring Boot, MySQL, Redis, and PostgreSQL**.
+- 🌱 Currently exploring **Solidity and Web3 development** alongside my backend work.
 - 📫 Reach me at **janicerx10@gmail.com**.
 
 PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过生日的时候当作礼金🧧送给朋友(不是(ﾉ∀`*)
 
 再PS: 现在的爱好是弹钢琴🎹 和 弹吉他 🎸, 有一把很可爱的墨芬Fender! Aiming to become an amateur piano teacher!  
+
+- 🎹 &  🎸 : Outside of coding, you'll probably find me playing piano or guitar.
 
 
 ---
