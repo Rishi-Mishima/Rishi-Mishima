@@ -27,8 +27,13 @@
 - 💬 Ask me about **Java / Spring Boot / Vue / React / MySQL / JavaScript**.  
 - 📫 Reach me at **janicerx10@gmail.com**.
 
----
+PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过生日的时候当作礼金🧧送给朋友(不是(ﾉ∀`*)
 
+再PS: 现在的爱好是弹钢琴🎹 和 弹吉他 🎸, 有一把很可爱的墨芬Fender! Aiming to become an amateur piano teacher!  
+
+
+---
+ 
 <!-- ---------- TECH STACK BADGES ---------- -->
 ### Languages & Tools
 
