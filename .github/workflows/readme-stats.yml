@@ -24,7 +24,7 @@ jobs:
           card: stats
           options: 'username=Rishi-Mishima&show_icons=true&hide_rank=true&theme=tokyonight'
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - name: Generate top languages
         uses: soulteary/github-readme-stats-action@v1.0.0
