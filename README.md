@@ -97,7 +97,7 @@ PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过�
 
 
 <p align="center">
-  <em>“Keep learning, keep building, and never give up.”</em> 💪
+  <em>“一个biomedical engineer成为software engineer 就像chiikawa中的狮萨🦁想要成为拉面师傅🍜一样天经地义 ”</em> 
 </p>
 
 
