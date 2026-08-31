@@ -69,6 +69,15 @@ PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过�
 
 
 
+<br>
+
+### ☘️ STATS
+
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+
+
 
 
 </div>
@@ -87,9 +96,6 @@ PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过�
 <p align="center">
   <em>“Keep learning, keep building, and never give up.”</em> 💪
 </p>
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-mishima&theme=tokyo-night">
 
 
 
