@@ -23,6 +23,7 @@
 ### About me
 
 - 👩🏻‍💻 I'm Risha, a software engineer focused on **Java backend development and AI-powered systems**.
+- 🧬 Biomedical Engineering background. I like playing with electronics and embedded systems. Proudly burned a LOT of capacitors. 
 - 🤖 Currently building **AI agents, RAG pipelines, and multi-agent workflows** with Java.
 - 🗄️ Exploring **database internals** by implementing transaction management, MVCC, recovery, caching, and indexing from scratch.
 - ⚙️ I enjoy turning system concepts into working projects with **Java, Spring Boot, MySQL, Redis, and PostgreSQL**.
