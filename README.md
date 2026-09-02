@@ -97,7 +97,15 @@ PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过�
 
 
 <p align="center">
-  <em>“一个biomedical engineer成为software engineer 就像chiikawa中的狮萨🦁想要成为拉面师傅🍜一样天经地义 ”</em> 
+  <em>
+    “一个 Biomedical Engineer 成为 Software Engineer，<br>
+    就像《Chiikawa》里的狮萨 🦁 想成为拉面师傅 🍜 一样天经地义。”
+  </em>
+  <br><br>
+  <em>
+    “A Biomedical Engineer becoming a Software Engineer<br>
+    is just as natural as Shisa 🦁 wanting to become a ramen chef 🍜 in <i>Chiikawa</i>.”
+  </em>
 </p>
 
 
