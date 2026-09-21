@@ -114,3 +114,36 @@ PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过�
 
 ### 🎸 LeetCode study 
 <img src="https://leetcard.jacoblin.cool/dao-dao-92?site=cn">
+
+
+<br>
+
+### 💻 My languages
+
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+                </a>
+                <br>Python
+            </td>
+          <td align="center" width="96">
+                <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+                <br>Java
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+                <br>TypeScript
+            </td>
+        </tr>
+    </table>
+    <br>
+    <br>
+</div>
+
