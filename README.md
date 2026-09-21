@@ -141,6 +141,10 @@ PS: 💵 现在在做的事情是想要发行自己的meme币, 然后朋友过�
                 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
                 <br>TypeScript
             </td>
+          <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="TypeScript" />
+                <br>React
+            </td>
         </tr>
     </table>
     <br>
