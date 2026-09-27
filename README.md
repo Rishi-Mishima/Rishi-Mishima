@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=50&center=true&vCenter=true&width=520&lines=👋+Hi+I'm+Risha;" />
 </h1>
 
-<h3 align="center">A passionate Java developer from China 🧬 → 💻 </h3>
+<h3 align="center">A passionate AI/Full-Stack developer from China 🧬 → 💻 </h3>
 
 <p align="center">
   <em>Backend & Full-stack •  Spring Boot • AI Agents • RAG • MySQL • Redis • React/VUE • TypeScript
@@ -22,7 +22,7 @@
 <!-- ---------- ABOUT ---------- -->
 ### About me
 
-- 👩🏻‍💻 I'm Risha, a software engineer focused on **Java backend development and AI-powered systems**.
+- 👩🏻‍💻 I'm Risha, a software engineer focused on **Java/Python/Go backend development and AI-powered systems**.
 - 🌱 Currently exploring **Solidity and Web3 development** alongside my backend work.
 - 📫 Reach me at **janicerx10@gmail.com**.
 - 🎹 &  🎸 : Outside of coding, you'll probably find me playing piano or guitar.
