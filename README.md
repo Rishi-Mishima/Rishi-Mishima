@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=50&center=true&vCenter=true&width=520&lines=👋+Hi+I'm+Risha;" />
 </h1>
 
-<h3 align="center">A passionate AI/Full-Stack developer from China 🧬 → 💻 </h3>
+<h3 align="center">A passionate AI / Full-Stack developer from China 🧬 → 💻 </h3>
 
 <p align="center">
   <em>Backend & Full-stack •  Spring Boot • AI Agents • RAG • MySQL • Redis • React/VUE • TypeScript
@@ -139,6 +139,10 @@
           <td align="center" width="96">
                 <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="48" height="48" alt="TypeScript" />
                 <br>Vue.js
+            </td>
+            <td align="center" width="96">
+                <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+                <br>Go
             </td>
         </tr>
     </table>
