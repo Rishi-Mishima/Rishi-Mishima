@@ -29,6 +29,49 @@
 
 
 ---
+
+<div style="display: flex; align-items: flex-start; align: center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <a href="#macropower-tech">
+                    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+                </a>
+                <br>Python
+            </td>
+          <td align="center" width="96">
+                <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+                <br>Java
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+                <br>TypeScript
+            </td>
+          <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="TypeScript" />
+                <br>React
+            </td>
+          <td align="center" width="96">
+                <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="48" height="48" alt="TypeScript" />
+                <br>Vue.js
+            </td>
+            <td align="center" width="96">
+                <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+                <br>Go
+            </td>
+          <td align="center" width="96">
+                <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+                <br>Rust
+            </td>
+        </tr>
+    </table>
+    <br>
+    <br>
+</div>
  
 <!-- ---------- TECH STACK BADGES ---------- -->
 ### Languages & Tools
@@ -110,43 +153,4 @@
 <br>
 
 ### 💻 My languages
-
-<div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
-        <tr>
-            <td align="center" width="96">
-                <a href="#macropower-tech">
-                    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-                </a>
-                <br>Python
-            </td>
-          <td align="center" width="96">
-                <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="48" height="48" alt="Java" />
-                <br>Java
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-                <br>JavaScript
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
-                <br>TypeScript
-            </td>
-          <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="TypeScript" />
-                <br>React
-            </td>
-          <td align="center" width="96">
-                <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="48" height="48" alt="TypeScript" />
-                <br>Vue.js
-            </td>
-            <td align="center" width="96">
-                <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-                <br>Go
-            </td>
-        </tr>
-    </table>
-    <br>
-    <br>
-</div>
 
